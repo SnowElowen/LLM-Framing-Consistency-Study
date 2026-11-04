@@ -7,6 +7,8 @@
 **Status:** Preliminary pilot report, version 1  
 **Keywords:** prompt framing, language model evaluation, probability judgments, response consistency
 
+**Project purpose:** This LLM framing study is intended for my Industrial Statistics final-year design project. It is a statistics and AI evaluation project, separate from my FPGA HFT work.
+
 ## Abstract
 
 This pilot examines whether a user's stated belief changes a large language model's numerical judgment when the case facts are held constant. An employment-prospect scenario was presented to Gemini and GPT under two framings: the user described their prospects optimistically (A) or pessimistically (B). The available record contains one response from each model under each framing, for four responses in total. Gemini reported 10–20% under A and 10–15% under B; GPT reported 25% under A and 20% under B. Gemini's interval midpoints differ by 2.5 percentage points and GPT's point estimates by 5 percentage points, both in the direction of the user's stated optimism. The Gemini intervals overlap, and neither result estimates a repeatable framing effect. Both models' reported assessments remained low across the two conditions; the pilot did not reproduce a dramatic reversal of judgment. These numbers are model-generated assessments, not empirically calibrated probabilities of employment. The case provides a transparent starting point for a larger, controlled study of framing sensitivity.
